@@ -1,10 +1,5 @@
 # 问卷调查管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ： “**问卷1**”   
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -68,12 +63,4 @@
 ### 4.4 设计文档目录
 
 ![设计文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206092104569.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ： “**问卷1**”   
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
