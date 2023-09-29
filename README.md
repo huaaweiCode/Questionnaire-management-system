@@ -63,4 +63,8 @@
 ### 4.4 设计文档目录
 
 ![设计文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206092104569.jpg)
+### 获取方式&视频演示
 
+下方扫一下，回复关键词：问卷
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
